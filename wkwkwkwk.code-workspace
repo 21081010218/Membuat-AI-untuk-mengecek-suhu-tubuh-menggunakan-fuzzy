@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../pemweb"
+		},
+		{
+			"path": "C:/xampp/htdocs"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pemweb"
+	}
+}
